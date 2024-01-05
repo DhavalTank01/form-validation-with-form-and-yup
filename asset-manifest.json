@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/form-validation-with-form-and-yup/static/css/main.241951ba.css",
-    "main.js": "/form-validation-with-form-and-yup/static/js/main.c80c3a0d.js",
+    "main.js": "/form-validation-with-form-and-yup/static/js/main.fc671e94.js",
     "index.html": "/form-validation-with-form-and-yup/index.html",
     "main.241951ba.css.map": "/form-validation-with-form-and-yup/static/css/main.241951ba.css.map",
-    "main.c80c3a0d.js.map": "/form-validation-with-form-and-yup/static/js/main.c80c3a0d.js.map"
+    "main.fc671e94.js.map": "/form-validation-with-form-and-yup/static/js/main.fc671e94.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.c80c3a0d.js"
+    "static/js/main.fc671e94.js"
   ]
 }
