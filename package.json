@@ -1,6 +1,6 @@
 {
-  "name": "form-validation-with-form-and-yup",
-  "homepage": "https://DhavalTank01.github.io/form-validation-with-form-and-yup",
+  "name": "form-validation-with-formik-and-yup",
+  "homepage": "https://DhavalTank01.github.io/form-validation-with-formik-and-yup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
